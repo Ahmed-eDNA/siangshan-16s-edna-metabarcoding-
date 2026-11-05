@@ -1,0 +1,9 @@
+ASV_ID	Kingdom	Phylum	Class	Order	Family	Genus	Species
+ASV_1	Bacteria	Proteobacteria	Gammaproteobacteria	Order_A	Family_A	Genus_A	Species_A
+ASV_2	Bacteria	Proteobacteria	Alphaproteobacteria	Order_B	Family_B	Genus_B	Species_B
+ASV_3	Bacteria	Bacteroidota	Bacteroidia	Order_C	Family_C	Genus_C	Species_C
+ASV_4	Bacteria	Actinobacteriota	Actinobacteria	Order_D	Family_D	Genus_D	Species_D
+ASV_5	Bacteria	Firmicutes	Bacilli	Order_E	Family_E	Genus_E	Species_E
+ASV_6	Bacteria	Desulfobacterota	Desulfovibrionia	Order_F	Family_F	Genus_F	Species_F
+ASV_7	Bacteria	Proteobacteria	Gammaproteobacteria	Order_G	Family_G	Genus_G	Species_G
+ASV_8	Bacteria	Unclassified	Unclassified	Unclassified	Unclassified	Unclassified	Unclassified

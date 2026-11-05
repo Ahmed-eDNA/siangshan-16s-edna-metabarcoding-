@@ -1,0 +1,22 @@
+flowchart TD
+    A["Paired-end 16S rRNA FASTQ reads"] --> B["Read quality assessment"]
+    B --> C["Filtering and trimming"]
+    C --> D["Error learning and DADA2 denoising"]
+    D --> E["Paired-read merging"]
+    E --> F["ASV table construction"]
+    F --> G["Chimera removal"]
+    G --> H["Taxonomic assignment<br/>DECIPHER / IdTaxa + SILVA reference"]
+    H --> I["ASV count table + taxonomy table"]
+    I --> J["Combine with sample metadata"]
+    J --> K["phyloseq object"]
+    K --> L["Alpha diversity"]
+    K --> M["Taxonomic composition"]
+    K --> N["Bray–Curtis dissimilarity"]
+    N --> O["NMDS ordination"]
+    N --> P["PERMANOVA + dispersion check"]
+    K --> Q["Rarefaction curves"]
+    L --> R["Figures, tables and analysis outputs"]
+    M --> R
+    O --> R
+    P --> R
+    Q --> R

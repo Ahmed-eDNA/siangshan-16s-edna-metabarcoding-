@@ -1,0 +1,23 @@
+# R / RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Rproj
+
+# Local data and sequencing files
+data/fastq/
+references/
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.sam
+
+# Generated analysis output
+results/*
+!results/.gitkeep
+
+# Local package libraries
+renv/library/

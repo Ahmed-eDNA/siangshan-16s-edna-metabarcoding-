@@ -1,2 +1,1 @@
-# siangshan-16s-eDNA-metabarcoding-
-Reproducible R workflow for 16S rRNA eDNA metabarcoding, microbial community profiling, and biodiversity analysis of Xiang-Shan Wetland, Taiwan.
+Original uploaded scripts preserved for provenance only. These are archival copies, not the cleaned execution-ready scripts. They may contain local paths, exploratory code, and unresolved assumptions. Review before sharing publicly.
